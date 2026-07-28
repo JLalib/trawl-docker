@@ -228,4 +228,4 @@ Este proyecto se basa en [Trawl](https://github.com/germondai/trawl), licenciado
 
 ---
 
-> ✨ **Nota**: Este repositorio contiene la configuración Docker y documentación extraída del tutorial de Genbyte: [Cómo instalar Trawl en Docker - Motor scraping adaptativo que bypasa Cloudflare autohospedado](https://genbyte.blogspot.com/2026/07/como-instalar-trawl-en-docker-motor.html)
+> ✨ **Nota**: Este repositorio contiene la configuración Docker y documentación extraída del tutorial de Genbyte: <a href="https://genbyte.blogspot.com/2026/07/como-instalar-trawl-en-docker-motor.html" target="_blank" rel="noopener noreferrer">Cómo instalar Trawl en Docker - Motor scraping adaptativo que bypasa Cloudflare autohospedado</a>
